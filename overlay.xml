@@ -1,0 +1,14 @@
+
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>exodev</name>
+		<description>Exo's Overlay</description>
+		<homepage>https://exo.icu/</homepage>
+		<owner>
+			<email>inbox@exo.icu</email>
+			<name>Dmitry K</name>
+		</owner>
+		<source type="git">git://github.com/ex0hunt/gentoo-overlay.git</source>
+		<feed>https://github.com/ex0hunt/gentoo-overlay/commits</feed>
+	</repo>
+</repositories>
