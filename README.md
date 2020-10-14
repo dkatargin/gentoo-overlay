@@ -1,5 +1,5 @@
 # Gentoo Overlay
-This overlay contains some staff what I like
+This overlay contains some stuff what I like
 
 ## Usage
 Just add following lines to /etc/portage/repos.conf/exodev.conf
