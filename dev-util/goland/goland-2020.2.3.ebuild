@@ -45,7 +45,7 @@ RDEPEND="
 "
 
 src_install() {
-	local dir="/opt/${P}"
+	local dir="/opt/${PN}"
 
 	insinto "${dir}"
 	doins -r *
