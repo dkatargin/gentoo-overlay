@@ -7,7 +7,7 @@ MULTILIB_COMPAT=( abi_x86_64 )
 
 inherit desktop multilib-build pax-utils xdg
 
-DESCRIPTION="Build, test, and document your APIs faster"
+DESCRIPTION="The Collaboration Platform for API Development"
 HOMEPAGE="https://www.postman.com"
 SRC_URI="https://dl.pstmn.io/download/version/${PV}/linux64 -> ${P}.tar.gz"
 
